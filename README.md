@@ -1,4 +1,3 @@
-<br />
-<br />
-
-< img src="index.png" />
+<p align="center">
+<img src="index.png" />
+</p>
